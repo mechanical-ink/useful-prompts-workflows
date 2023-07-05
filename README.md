@@ -1,2 +1,3 @@
-# useful-prompts-workflows
-A collection of prompts for various LLM services, reusable GitHub Action workflows and Pipedream automations
+# Use prompts, workflows, and automation scripts
+
+A collection of prompts for various LLM services, reusable GitHub Action workflows, and Pipedream automation scripts and flows.
